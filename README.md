@@ -1,5 +1,5 @@
 # chatBot
-Creating chatbot using MERN stack
+Creating chatbot using MERN stack with live agent support
 
 ## To Run
 ### client(Fronetend)
